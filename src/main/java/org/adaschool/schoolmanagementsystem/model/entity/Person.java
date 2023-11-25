@@ -1,5 +1,7 @@
 package org.adaschool.schoolmanagementsystem.model.entity;
 
+import java.time.LocalDate;
+
 public class Person {
     //Atributos
     private int id;

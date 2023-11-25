@@ -1,6 +1,10 @@
 package org.adaschool.schoolmanagementsystem.model.entity;
 
-public class Student {
+import org.adaschool.schoolmanagementsystem.model.enums.Status;
+
+import java.time.LocalDate;
+
+
     public class Student extends Person {
 
         //Atributos
@@ -26,4 +30,4 @@ public class Student {
 
     }
 
-}
+
