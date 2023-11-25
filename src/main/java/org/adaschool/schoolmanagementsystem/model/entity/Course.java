@@ -8,7 +8,7 @@ public class Course {
     private String name;
     private String description;
     private int credits;
-    private org.adaschool.schoolmanagementsystem.model.enums.Version version;
+    private Version version;
 
     //constructor
 
